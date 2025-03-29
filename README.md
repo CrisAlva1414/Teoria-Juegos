@@ -14,9 +14,9 @@ La **teoría de juegos** nace en el siglo XX como un marco matemático para anal
 
 ### La Paradoja Clásica
 En el **Dilema del Prisionero**, dos delincuentes son interrogados por separado:
-- Si ambos **cooperan** (no delatan), reciben una pena leve.
-- Si uno **traiciona** y el otro coopera, el traidor sale libre y el cooperador recibe máxima pena.
-- Si ambos traicionan, ambos reciben penas moderadas.
+- Si ambos **cooperan** (no delatan), reciben una pena leve. Cada jugador recibe 1/1 puntos.
+- Si uno **traiciona** y el otro coopera, el traidor sale libre y el cooperador recibe máxima pena. Cada jugador recibe 0/5 respectivamente y puede aplicarse inversamente.
+- Si ambos traicionan, ambos reciben penas moderadas. Cada jugador recibe 3/3 puntos.
 
 Aunque la cooperación genera el mejor resultado colectivo, el incentivo individual lleva a la traición (equilibrio de Nash). Axelrod demostró que, en interacciones repetidas, estrategias *reciprocantes* como **Tit for Tat** (iniciar cooperando y luego replicar la acción previa del oponente) superan a las puramente egoístas. De forma que, comprendemos que la teoria de juegos tiene mucho que dictar en un entendimiento social a partir de perspectivas sistemicas.
 
